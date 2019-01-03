@@ -1,3 +1,5 @@
+_This project is hosted at: [https://kropelka77.github.io/CodeBreakerProject/](https://kropelka77.github.io/CodeBreakerProject/)_
+
 # Use JavaScript to Create a "Code Breaker" Game
 
 You'll build a Code Breaker game using JavaScript. Based off the board game Mastermind, the game will randomly generate a hidden code and the player gets 10 attempts to guess that code based on provided feedback. 
